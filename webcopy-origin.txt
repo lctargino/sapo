@@ -1,0 +1,76 @@
+Uri: https://brwlly.github.io/bruna-s-portfolio/
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\index.htm
+Content Type: text/html
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/assets/assets1/bru.svg
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\assets\assets1\bru.svg
+Content Type: image/svg+xml
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/assets/assets1/code.png
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\assets\assets1\code.png
+Content Type: image/png
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/assets/assets1/education.png
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\assets\assets1\education.png
+Content Type: image/png
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/assets/assets1/email.png
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\assets\assets1\email.png
+Content Type: image/png
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/assets/assets1/experience.png
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\assets\assets1\experience.png
+Content Type: image/png
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/assets/assets1/github.png
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\assets\assets1\github.png
+Content Type: image/png
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/assets/assets1/linkedin.png
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\assets\assets1\linkedin.png
+Content Type: image/png
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/assets/assets1/project-1.png
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\assets\assets1\project-1.png
+Content Type: image/png
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/assets/assets1/project-2.png
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\assets\assets1\project-2.png
+Content Type: image/png
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/assets/assets1/project-3.png
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\assets\assets1\project-3.png
+Content Type: image/png
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/mediaqueries.css
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\mediaqueries.css
+Content Type: text/css
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/script.js
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\script.js
+Content Type: application/javascript
+
+Uri: https://brwlly.github.io/bruna-s-portfolio/style.css
+File Name: C:\Downloaded Web Sites\brwlly.github.io\bruna-s-portfolio\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap
+File Name: C:\Downloaded Web Sites\brwlly.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\brwlly.github.io\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\brwlly.github.io\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\brwlly.github.io\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\brwlly.github.io\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
